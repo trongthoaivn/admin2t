@@ -1,5 +1,5 @@
 var path = require('path');
-const middleware = require('../../middleware/middle.auth');
+//const middleware = require('../../middleware/middle.auth');
 
 module.exports = {
     index: function(req, res) {
